@@ -18,5 +18,5 @@ $COMPILER \
     -fmodules-ts \
     --precompile \
     -o $BUILD_DIR/libargparser.pcm \
-    $SRC_DIR/libargparser.cppm
+    $SRC_DIR/libargparser.cpp
 
