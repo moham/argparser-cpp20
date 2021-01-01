@@ -7,9 +7,10 @@
 *.o
 *.obj
 
-# Precompiled Headers
+# Precompiled Headers and Modules
 *.gch
 *.pch
+*.pcm
 
 # Compiled Dynamic libraries
 *.so
@@ -30,3 +31,7 @@
 *.exe
 *.out
 *.app
+
+# Build Directory
+build/
+
